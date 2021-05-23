@@ -23,6 +23,7 @@
   "devDependencies": {
     "@typescript-eslint/parser": "^4.24.0",
     "eslint": "^7.27.0",
+    "eslint-plugin-tsdoc": "^0.2.14",
     "prettier": "^2.3.0"
   }
 }
