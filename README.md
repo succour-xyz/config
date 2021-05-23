@@ -1,6 +1,6 @@
-# config
+# Config
 
-A single config for all multiple projects
+A single config for all projects/monorepos/microservices
 
 To use these configs simple write
 
