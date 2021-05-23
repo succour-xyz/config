@@ -1,6 +1,6 @@
 {
   "name": "@piyush97/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Piyush Mehta <me@piyushmehta.com>",
   "homepage": "https://github.com/succour-xyz/config#readme",
@@ -21,9 +21,9 @@
   },
   "gitHead": "7caf7e73b3d298b9a97c944df8e6af391461f678",
   "dependencies": {
-    "eslint-plugin-tsdoc": "^0.2.14",
     "@typescript-eslint/parser": "^4.24.0",
     "eslint": "^7.27.0",
+    "eslint-plugin-tsdoc": "^0.2.14",
     "prettier": "^2.3.0"
   }
 }
