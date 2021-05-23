@@ -1,0 +1,22 @@
+{
+  "name": "@piyush97/prettier-config",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Piyush Mehta <me@piyushmehta.com>",
+  "homepage": "https://github.com/succour-xyz/config#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/succour-xyz/config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/succour-xyz/config/issues"
+  }
+}
