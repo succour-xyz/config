@@ -18,5 +18,11 @@
   },
   "bugs": {
     "url": "https://github.com/succour-xyz/config/issues"
+  },
+  "gitHead": "7caf7e73b3d298b9a97c944df8e6af391461f678",
+  "devDependencies": {
+    "@typescript-eslint/parser": "^4.24.0",
+    "eslint": "^7.27.0",
+    "prettier": "^2.3.0"
   }
 }
