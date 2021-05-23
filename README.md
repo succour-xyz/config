@@ -1,5 +1,7 @@
 # config
 
+A single config for all multiple projects
+
 To use these configs simple write
 
 for NPM
