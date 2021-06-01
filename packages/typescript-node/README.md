@@ -14,14 +14,14 @@ Rest is already handled for you
 ## Usage
 
 ```
-#Root
+//#Root
 //.babelrc
 {
   "presets": ["@babel/preset-env", "@babel/preset-typescript"]
 }
 ```
 
-#Root
+//#Root
 //index.dev.ts
 
 import "./src/index";
