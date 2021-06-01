@@ -21,27 +21,24 @@ Rest is already handled for you
 }
 ```
 
+```
 //#Root
 //index.dev.ts
 
 import "./src/index";
-
 ```
 
 ```
+// Add this in your package.json and start using it according to your project structure
 
-Add this in your package.json and start using it according to your project structure
 "scripts": {
-"watch": "ts-node-dev --respawn index.dev.ts",
-"format": "prettier --write .",
-"dev": "tsnd --respawn --files -r @babel/register --inspect -- src/index.ts",
-"build": "babel ./src -d ./dist --extensions .ts --copy-files",
-"typecheck": "tsc",
-"start": "node dist/index.js",
-"lint:base": "eslint --ext .js,.json,.ts",
-"lint": "yarn lint:base src"
+        "watch": "ts-node-dev --respawn index.dev.ts",
+        "format": "prettier --write .",
+        "dev": "tsnd --respawn --files -r @babel/register --inspect -- src/index.ts",
+        "build": "babel ./src -d ./dist --extensions .ts --copy-files",
+        "typecheck": "tsc",
+        "start": "node dist/index.js",
+        "lint:base": "eslint --ext .js,.json,.ts",
+        "lint": "yarn lint:base src"
 }
-
-```
-
 ```
