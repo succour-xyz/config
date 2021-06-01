@@ -1,11 +1,12 @@
 # `@piyush97/prettier-config`
 
-> TODO: description
+> Prettier config for a cleaner code
 
 ## Usage
 
 ```
-const prettierConfig = require('@piyush97/prettier-config');
+{
+  "prettier": "@piyush97/prettier-config"
+}
 
-// TODO: DEMONSTRATE API
 ```

@@ -1,11 +1,13 @@
 # `@piyush97/eslint-config`
 
-> TODO: description
+> Eslint Config for Typescript Node express app
 
 ## Usage
 
 ```
-const eslintConfig = require('@piyush97/eslint-config');
+//.eslintrc
 
-// TODO: DEMONSTRATE API
+{
+    "extends": ["@piyush97/eslint-config"]
+}
 ```
