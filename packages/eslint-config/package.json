@@ -21,6 +21,7 @@
   },
   "gitHead": "7caf7e73b3d298b9a97c944df8e6af391461f678",
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.26.0",
     "@typescript-eslint/parser": "^4.24.0",
     "eslint": "^7.27.0",
     "eslint-plugin-tsdoc": "^0.2.14",
